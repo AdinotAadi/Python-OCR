@@ -6,7 +6,7 @@ pythorch, easyocr, matplotlib, opencv, numpy
 
 To install pytorch, go to https://pytorch.org/ and choose the version best suited for your machine.
 
-To install easyocr, use the following git command
+To install easyocr, use the following git command\n
 pip install easyocr
 or go to https://github.com/JaidedAI/EasyOCR for further documentation.
 
