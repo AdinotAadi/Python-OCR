@@ -1,3 +1,4 @@
+![IMG7](https://user-images.githubusercontent.com/84984325/125480710-28478925-ff5f-4387-b498-3ce608f5aa21.png)
 # Python-OCR
 A program to extract text from images.
 
